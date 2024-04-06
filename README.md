@@ -11,4 +11,6 @@ pip install pygame
 ```
 
 
-2. **put** piece images to **data** folder near your python folder.
+2. *put* piece images and **.mp3** file to **data** folder near your python folder.
+
+3. you can set up ***brawl stars*** or ***medieval*** pieces by pasting it in *data folder*
